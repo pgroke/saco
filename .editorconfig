@@ -1,0 +1,10 @@
+root = true
+
+[*.{c++,cc,cpp,cppm,cxx,h,h++,hh,hpp,hxx,inl,ipp,ixx,tlh,tli}]
+
+end_of_line = crlf
+tab_width = 4
+indent_size = 4
+indent_style = tab
+charset = utf-8
+insert_final_newline = true
